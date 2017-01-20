@@ -180,7 +180,7 @@ INTRO
   -webkit-backface-visibility: hidden;
 }
 #intro .item .logo {
-  margin-bottom: 120px;
+  margin-bottom: 29px;
   opacity: 0;
   filter: alpha(opacity=0);
   -webkit-backface-visibility: hidden;
@@ -211,7 +211,7 @@ INTRO
 }
 #intro .item h2 {
   color: #fff;
-  margin-bottom: 120px;
+  margin-bottom: 57px;
   font-weight: 400;
   opacity: 0;
   filter: alpha(opacity=0);
